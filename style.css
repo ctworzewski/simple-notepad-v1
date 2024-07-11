@@ -32,6 +32,7 @@ button {
     border-radius: 5px;
     cursor: pointer;
     border: none;
+    text-transform: uppercase;
 }
 
 #saveButton {
@@ -41,5 +42,10 @@ button {
 
 #clearButton {
     background-color: red;
+    color: white;
+}
+
+#savePdf {
+    background-color: burlywood;
     color: white;
 }
